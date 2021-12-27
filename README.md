@@ -48,16 +48,7 @@ There is a tutorial system to help new Peh players become familiar with Peh's ob
 
 #### Original Art and Music
 Peh features original art created using Paint.net and original music composed in MuseScore. Peh uses a spritesheet to save device memory.
+
 ![Spritesheet](assets/images/texture.png)
 
-There are two music tracks included in Peh. First, there is the gameplay music.
-
-<audio controls>
-    <source type="audio/wav" src="assets/audio/gameplay.wav">
-</audio>
-
-Second, there is the game-over music.
-
-<audio controls>
-    <source type="audio/wav" src="assets/audio/gameover.wav" >
-</audio>
+There are two music tracks included in Peh- the gameplay music and gameover music.
