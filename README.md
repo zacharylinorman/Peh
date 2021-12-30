@@ -1,6 +1,8 @@
 # Peh | Mobile Arcade Game
 <img src="assets/images/title.png" alt="title" style="float:right; width:200px"/>
 
+Code avaiable upon request.
+
 [Play Store - Peh](https://play.google.com/store/apps/details?id=com.charizard832.game)
 
 Peh is a cross-platform mobile arcade game for both IOS and Android built in Java using libGdx. Players avoid falling Pehnemies to reach the highest scores they can. Players can collect falling Sunpehs to gain extra lives, and collect falling Pehbbles to purchase skins and upgrades in the shop.
