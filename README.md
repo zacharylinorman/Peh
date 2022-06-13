@@ -54,3 +54,6 @@ Peh features original art created using Paint.net and original music composed in
 ![Spritesheet](assets/images/texture.png)
 
 There are two music tracks included in Peh- the gameplay music and gameover music. Both tracks can be found in the assets folder on [this GitHub page](https://github.com/zacharylinorman/Peh).
+
+## Privacy Policy
+This app does not collect any data.
